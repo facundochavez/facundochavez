@@ -12,7 +12,7 @@ I'm a 🧠 Software Engineer, 🎨 UX/UI Designer, and 💻 Frontend Developer s
 ## 🤝 Let's connect!
 
 - 📨 Email me: **ing.facundochavez@gmail.com**
-- 🌐 Visit my portfolio: [**facundochavez.com**](https://www.facundochavez.dev)
+- 🌐 Visit my portfolio: [**facundochavez.dev**](https://www.facundochavez.dev)
 - 🛠️ Open to collaborating with **React**, **Next.js**, **JavaScript**, **TypeScript**, and more.
 
 Thanks for stopping by — and feel free to explore my projects!
