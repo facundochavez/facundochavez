@@ -2,7 +2,7 @@
 
 I'm a AI Software Engineer, UX/UI Designer, and Frontend Developer specialized on building fluid and scalable products with a strong focus on design, usability, and functionality.
 
-- I'm currently working at **[Bitlogic](https://www.bitlogic.io/)**, building digital solutions for the Student Platform of **[Universidad Siglo 21](https://21.edu.ar/).**
+- I'm currently working at **[Bitlogic](https://www.bitlogic.io/)**, where I helped create solutions for the Student Platform of **[Universidad Siglo 21](https://21.edu.ar/) and more recently working as Client Success Agent on the **[Aprendiz](https://es.aprendiz.io/) project.**
 - On the side, I'm developing **[whatMLmodel](https://whatmlmodel.app/)** — a tool that uses AI to recommend machine learning models based on your problem.
 - I’m learning about **machine learning and artificial intelligence**, aiming to create smarter, more user-centered experiences.
 - My approach to design and development is pragmatic: creativity is just the beginning — clear thinking and problem-solving drive every decision.
